@@ -7,7 +7,15 @@ These palettes were create by [DawnBringer][2], a user on the [Pixel Joint][1] f
 * [DB16 - DawnBringer's 16 Col Palette v1.0][3]
 * [DB32 - DawnBringer's 32 Col Palette V1.0][4]
 
-This repository contains the DawnBringer palettes in various formats for use across many platforms:
+This repository contains the DawnBringer palettes in various formats for use across many platforms.
+
+## DB16
+
+![DB16](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/db16.png)
+
+## DB32
+
+![DB32](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/db32.png)
 
 [1]: http://www.pixeljoint.com/
 [2]: http://www.pixeljoint.com/p/23821.htm
