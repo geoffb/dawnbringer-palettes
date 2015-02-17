@@ -11,13 +11,15 @@ This repository contains the DawnBringer palettes in various formats for use acr
 
 ## DB16
 
-![DB16](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/db16.png)
+![DB16][5]
 
 ## DB32
 
-![DB32](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/db32.png)
+![DB32][6]
 
 [1]: http://www.pixeljoint.com/
 [2]: http://www.pixeljoint.com/p/23821.htm
 [3]: http://www.pixeljoint.com/forum/forum_posts.asp?TID=12795
 [4]: http://www.pixeljoint.com/forum/forum_posts.asp?TID=16247
+[5]: https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB16/db16.png
+[6]: https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/db32.png
