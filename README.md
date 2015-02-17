@@ -2,7 +2,7 @@
 
 As someone with limited artistic ability, using a nice, limited collection of colors helps me create decent looking web sites and games without agonizing over the color choices.
 
-These palettes were create by [DawnBringer][2], a user on the [Pixel Joint][1] forums:
+These palettes were created by [DawnBringer][2], a user on the [Pixel Joint][1] forums:
 
 * [DB16 - DawnBringer's 16 Col Palette v1.0][3]
 * [DB32 - DawnBringer's 32 Col Palette V1.0][4]
