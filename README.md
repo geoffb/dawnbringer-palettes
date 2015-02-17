@@ -12,4 +12,4 @@ This repository contains the DawnBringer palettes in various formats for use acr
 [1]: http://www.pixeljoint.com/
 [2]: http://www.pixeljoint.com/p/23821.htm
 [3]: http://www.pixeljoint.com/forum/forum_posts.asp?TID=12795
-[4: http://www.pixeljoint.com/forum/forum_posts.asp?TID=16247]
+[4]: http://www.pixeljoint.com/forum/forum_posts.asp?TID=16247]
