@@ -1,0 +1,19 @@
+; Paint.NET DB16 Palette
+; http://www.pixeljoint.com/forum/forum_posts.asp?TID=12795
+; https://github.com/geoffb/dawnbringer-palettes
+FF140C1C
+FF442434
+FF30346D
+FF4E4A4F
+FF854C30
+FF346524
+FFD04648
+FF757161
+FF597DCE
+FFD27D2C
+FF8595A1
+FF6DAA2C
+FFD2AA99
+FF6DC2CA
+FFDAD45E
+FFDEEED6
