@@ -13,9 +13,26 @@ This repository contains the DawnBringer palettes in various formats for use acr
 
 ![DB16][5]
 
+### Formats
+
+* [CSV](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB16/db16.csv)
+* [GIMP](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB16/db16.gpl)
+* [Less](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB16/db16.less)
+* [macOS](https://github.com/geoffb/dawnbringer-palettes/blob/master/DB16/DB16.clr?raw=true)
+* [Paint.NET](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB16/db16.txt)
+* [Photoshop](https://github.com/geoffb/dawnbringer-palettes/raw/master/DB16/db16.act?raw=true)
+* [Unity](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB16/DB16.colors)
+
 ## DB32
 
 ![DB32][6]
+
+### Formats
+
+* [GIMP](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/db32.gpl)
+* [macOS](https://github.com/geoffb/dawnbringer-palettes/blob/master/DB32/DB32.clr?raw=true)
+* [Photoshop](https://github.com/geoffb/dawnbringer-palettes/raw/master/DB32/db32.act?raw=true)
+* [Unity](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/DB32.colors)
 
 [1]: http://www.pixeljoint.com/
 [2]: http://www.pixeljoint.com/p/23821.htm
