@@ -33,6 +33,7 @@ This repository contains the DawnBringer palettes in various formats for use acr
 * [macOS](https://github.com/geoffb/dawnbringer-palettes/blob/master/DB32/DB32.clr?raw=true)
 * [Photoshop](https://github.com/geoffb/dawnbringer-palettes/raw/master/DB32/db32.act?raw=true)
 * [Unity](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/DB32.colors)
+* [Lua](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/db32.lua)
 
 [1]: http://www.pixeljoint.com/
 [2]: http://www.pixeljoint.com/p/23821.htm
