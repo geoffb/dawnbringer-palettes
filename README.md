@@ -22,6 +22,7 @@ This repository contains the DawnBringer palettes in various formats for use acr
 * [Paint.NET](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB16/db16.txt)
 * [Photoshop](https://github.com/geoffb/dawnbringer-palettes/raw/master/DB16/db16.act?raw=true)
 * [Unity](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB16/DB16.colors)
+* [Aseprite](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB16/db16.pal)
 
 ## DB32
 
@@ -34,6 +35,7 @@ This repository contains the DawnBringer palettes in various formats for use acr
 * [Photoshop](https://github.com/geoffb/dawnbringer-palettes/raw/master/DB32/db32.act?raw=true)
 * [Unity](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/DB32.colors)
 * [Lua](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/db32.lua)
+* [Aseprite](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/db32.pal)
 
 [1]: http://www.pixeljoint.com/
 [2]: http://www.pixeljoint.com/p/23821.htm
