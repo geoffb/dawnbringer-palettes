@@ -29,9 +29,11 @@ This repository contains the DawnBringer palettes in various formats for use acr
 
 ### Formats
 
+* [CSV](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/db32.csv)
 * [GIMP](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/db32.gpl)
 * [Less](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/db32.less)
 * [macOS](https://github.com/geoffb/dawnbringer-palettes/blob/master/DB32/DB32.clr?raw=true)
+* [Paint.NET](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/db32.txt)
 * [Photoshop](https://github.com/geoffb/dawnbringer-palettes/raw/master/DB32/db32.act?raw=true)
 * [Unity](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/DB32.colors)
 * [Lua](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/db32.lua)
