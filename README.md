@@ -4,14 +4,21 @@ As someone with limited artistic ability, using a nice, limited collection of co
 
 These palettes were created by [DawnBringer][2], a user on the [Pixel Joint][1] forums:
 
-* [DB16 - DawnBringer's 16 Col Palette v1.0][3]
-* [DB32 - DawnBringer's 32 Col Palette V1.0][4]
+* [DB8 - DawnBringer's 8 Color Palette V1.0][3]
+* [DB16 - DawnBringer's 16 Col Palette v1.0][4]
+* [DB32 - DawnBringer's 32 Col Palette V1.0][5]
 
 This repository contains the DawnBringer palettes in various formats for use across many platforms.
 
+## DB8
+
+![DB8][6]
+
+* …
+
 ## DB16
 
-![DB16][5]
+![DB16][7]
 
 ### Formats
 
@@ -25,7 +32,7 @@ This repository contains the DawnBringer palettes in various formats for use acr
 
 ## DB32
 
-![DB32][6]
+![DB32][8]
 
 ### Formats
 
@@ -39,9 +46,11 @@ This repository contains the DawnBringer palettes in various formats for use acr
 * [Photoshop](https://github.com/geoffb/dawnbringer-palettes/raw/master/DB32/db32.act?raw=true)
 * [Unity](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/DB32.colors)
 
-[1]: http://www.pixeljoint.com/
-[2]: http://www.pixeljoint.com/p/23821.htm
-[3]: http://www.pixeljoint.com/forum/forum_posts.asp?TID=12795
-[4]: http://www.pixeljoint.com/forum/forum_posts.asp?TID=16247
-[5]: https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB16/db16.png
-[6]: https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/db32.png
+[1]: http://pixeljoint.com/
+[2]: http://pixeljoint.com/p/23821.htm
+[3]: http://pixeljoint.com/forum/forum_posts.asp?TID=26050
+[4]: http://pixeljoint.com/forum/forum_posts.asp?TID=12795
+[5]: http://pixeljoint.com/forum/forum_posts.asp?TID=16247
+[6]: https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB8/db8.png
+[7]: https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB16/db16.png
+[8]: https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB32/db32.png
