@@ -14,7 +14,9 @@ This repository contains the DawnBringer palettes in various formats for use acr
 
 ![DB8][6]
 
-* …
+* [CSV](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB8/db8.csv)
+* [GIMP](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB8/db8.gpl)
+* [Paint.NET](https://raw.githubusercontent.com/geoffb/dawnbringer-palettes/master/DB8/db8.txt)
 
 ## DB16
 
