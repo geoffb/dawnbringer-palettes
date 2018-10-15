@@ -1,0 +1,11 @@
+; Paint.NET DB8 Palette
+; http://www.pixeljoint.com/forum/forum_posts.asp?TID=26050
+; https://github.com/geoffb/dawnbringer-palettes
+FF000000
+FF55415F
+FF646964
+FFD77355
+FF508CD7
+FF64B964
+FFE6C86E
+FFDCF5FF
