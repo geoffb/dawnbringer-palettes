@@ -1,5 +1,12 @@
 # DawnBringer Palettes
 
+The [Lospec Palette List](https://lospec.com/palette-list) is a nicer resource for these DawnBringer palettes (and many others):
+* [DawnBringer 8](https://lospec.com/palette-list/dawnbringers-8-color)
+* [DawnBringer 16](https://lospec.com/palette-list/dawnbringer-16)
+* [DawnBringer 32](https://lospec.com/palette-list/dawnbringer-32)
+
+---
+
 As someone with limited artistic ability, using a nice, limited collection of colors helps me create decent looking web sites and games without agonizing over the color choices.
 
 These palettes were created by [DawnBringer][2], a user on the [Pixel Joint][1] forums:
